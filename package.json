@@ -1,0 +1,26 @@
+{
+  "name": "graphql-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alwayssmellitfirst/graphql-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alwayssmellitfirst/graphql-playground/issues"
+  },
+  "homepage": "https://github.com/alwayssmellitfirst/graphql-playground#readme",
+  "dependencies": {
+    "apollo-server-express": "^2.25.2",
+    "express": "^4.17.1",
+    "graphql": "^15.5.1",
+    "mongoose": "^5.13.2"
+  }
+}
